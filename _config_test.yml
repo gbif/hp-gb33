@@ -1,4 +1,4 @@
-url: "https://gb32.gbif-uat.org"
+url: "https://gb33.gbif-uat.org"
 
 useSharedLibrary: true # Use the new component library
 testSite: true #style the site to show that it is a test site
