@@ -1,14 +1,14 @@
 ---
 lang-ref: home
 layout: home
-title: GB32 Colombia
+title: GB33 Norway
 description: |
-  The 32nd meeting of the GBIF Governing Board and associated events,
-  Bogota, Colombia
-  16-20 October 2025
+  The 33rd meeting of the GBIF Governing Board and associated events,
+  Oslo, Norway
+  XX-XX September 2026
 background: /assets/images/GB32-bg.jpg
 imageLicense: |
-  GBIF secretariat 2025 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+  GBIF secretariat 2026 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
 
 height: 85vh
 parallax: true
