@@ -1,13 +1,11 @@
 cards:
-  title: Welcome to Bogotá, Colombia
+  title: Welcome to Oslo, Norway
   description: |
-    The SiB (Biodiversity Information System) Colombia and Humboldt Institute, on behalf of Colombia, is pleased to host the 32nd meeting (GB32) of the GBIF Governing Board in Bogotá, Colombia.
+    HOST NAME, on behalf of Norway, is pleased to host the 33rd meeting (GB33) of the GBIF Governing Board in Oslo, Norway.
    
-    Please note that the GB32 events will take place just before the start of the [Living Data 2025](https://www.livingdata2025.com/). Visit the [programme page](/programme) for a full description of the individual events taking place.  
+    Please visit the [programme page](/programme) for a full description of the individual events taking place.  
 
-    Colombia is proud to welcome biodiversity data specialists from around the world to this important event. As one of the world's most biodiverse countries, Colombia offers a fitting backdrop for discussions on global biodiversity information sharing. We look forward to providing participants with both a productive meeting environment and opportunities to experience our country's natural and cultural richness.   
-
-    PLEASE NOTE: THERE IS A CHANGE TO THE VENUE OF THE ICEBREAKER ON 18 OCTOBER. GO TO THE [PROGRAMME PAGE](/programme) FOR MORE INFORMATION.  
+      
    
 
     
@@ -29,7 +27,7 @@ cards:
     background: /assets/images/GB32-feat-15.jpg
     href: /meeting-documents
   - title: Financial support
-    description: "Apply for financial support. Deadline: 30 April 2025."
+    description: "Apply for financial support. Deadline: XX XXXX 2026."
     background: /assets/images/GB32-feat-14.jpg
     href: /financial-support
   - title: Travel, accommodation and venues
