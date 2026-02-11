@@ -7,19 +7,20 @@ imageLicense: |
 ---
 
 ### National host
-Please contact the national host if you have any questions regarding practical information relating to the meetings or your stay in Colombia:  
+Please contact the national host if you have any questions regarding practical information relating to the meetings or your stay in Norway:  
 
-Email: [sib@humboldt.org.co](mailto:sib@humboldt.org.co)
+ADD INFO  
+
 ### GBIF Secretariat
 Please contact the GBIF Secretariat if you have any questions regarding the following:
-- rules for attending the GB32 events
+- rules for attending the GB33 events
 - the programme
 - the rules for requesting financial support to attend the meeting, or
 - if you need an invitation letter.  
 
 GBIF Secretariat  
-Email: [GB32@gbif.org](mailto:GB32@gbif.org)  
-Phone: +45 35 32 14 70  
+Email: [GB33@gbif.org](mailto:GB33@gbif.org)  
+
 
 
 
