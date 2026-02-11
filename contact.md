@@ -9,7 +9,7 @@ imageLicense: |
 ### National host
 Please contact the national host if you have any questions regarding practical information relating to the meetings or your stay in Norway:  
 
-ADD INFO  
+Email: [GB33@gbif.no](mailto:GB33@gbif.no)  
 
 ### GBIF Secretariat
 Please contact the GBIF Secretariat if you have any questions regarding the following:
