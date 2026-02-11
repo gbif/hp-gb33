@@ -36,8 +36,32 @@ ADD INFO
 ## Hotels
 Meeting attendees are asked to organize their own accommodation.
 
-### Hotel recommendations
-ADD INFO   
+The local organizers have made a block booking for the following hotels: 
+
+**Clarion Hotel Oslo**  
+Dronning Eufemias gate 15  
+0194 Oslo  
+Norway  
+[Block booking reservation link](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026) (valid to 1 August 2026)  
+- 255 rooms  
+- 500 m from Oslo Central Station  
+
+
+**Clarion Hotel The Hub**  
+Biskop Gunnerus gate 3
+0155 Oslo
+Norway
+[Block booking reservation link](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026) (valid to 1 August 2026)  
+- 810 rooms  
+- 190 m from Oslo Central Station  
+
+**Clarion Collection Hotel Folketeateret**  
+Storgata 21-23  
+0184 Oslo  
+Norway
+[Block booking reservation link](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026) (valid to 1 August 2026)  
+- 160 rooms
+- 350 m from Oslo Central Station
 
 
 ## Venues
