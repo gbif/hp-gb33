@@ -5,7 +5,7 @@ title: GB33 Norway
 description: |
   The 33rd meeting of the GBIF Governing Board and associated events,
   Oslo, Norway
-  XX-XX September 2026
+  28 September-1 October 2026
 background: /assets/images/GB32-bg.jpg
 imageLicense: |
   GBIF secretariat 2026 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
