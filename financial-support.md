@@ -7,7 +7,7 @@ imageLicense: |
 ---
 
 THIS TEXT NEEDS TO BE CHECKED AND APPROVED BY JOE  
-The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on 29 September -1 October 2026. Support may include partial funding of economy-class fligth tickets and a subsidy to cover accommodation or a general lump sum.  
+The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on 29 September -1 October 2026. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation or a general lump sum.  
 
 **The application process is now open.**   
 
@@ -20,7 +20,7 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 ## Who can apply? 
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants from countries with per capita GDP below USD 13,500 which are in good standing in regards to their GBIF financial contributions.  
 
-These countries will be countries whose per capita GBP was less than 13,500 according to the 2020 Word Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2023-2027). See list here ADD LINK.  
+These countries will be countries whose per capita GDP was less than 13,500 according to the 2020 Word Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2023-2027). See list here ADD LINK.  
 
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
@@ -29,7 +29,7 @@ Fill in the GB33 application form for partial financial support and submit the f
 
 **The application form can be found here ADD LINK**
 
-Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Recognizing the lenghty time span between purchase of flight ticket and reimbursement of costs, the GBIF Secretariat offers the opportunity to reimburse flight costs straight after the tickets have been purchased, based on receipts, if needed. If applicants to not have the means to pre-finance the cost of a flight ticket, they may apply for GBIF to pay the air ticket costs directly.   
+Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Recognizing the lengthy time span between purchase of flight ticket and reimbursement of costs, the GBIF Secretariat offers the opportunity to reimburse flight costs straight after the tickets have been purchased, based on receipts, if needed. If applicants to not have the means to pre-finance the cost of a flight ticket, they may apply for GBIF to pay the air ticket costs directly.   
 
 Please read the conditions section in the application form carefully. Non-compliance may result in loss of future travel reimbursement.  
 
