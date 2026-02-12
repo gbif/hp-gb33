@@ -20,7 +20,7 @@ The GBIF Secretariat will inform applicants about the outcome of their applicati
 ## Who can apply? 
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants from countries with per capita GDP below USD 13,500 which are in good standing in regards to their GBIF financial contributions.  
 
-These countries will be countries whose per capita GDP was less than 13,500 according to the 2020 Word Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2023-2027). See list here ADD LINK.  
+These countries will be countries whose per capita GDP was less than 13,500 according to the 2020 Word Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2023-2027). See list [here](/assets/documents/GB33_VP_low_GDP.pdf).  
 
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
