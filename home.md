@@ -8,7 +8,7 @@ description: |
   28 September-2 October 2026
 background: /assets/images/GB33-bg-hp.jpg
 imageLicense: |
-  GBIF secretariat 2026 - <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+  <a href="https://flic.kr/p/2s55Lzp"><i>Forma Imaginis</i></a> by Javier Gamboa. GBIF Secretariat, 2026. Licenced under <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0.</a> View more <a href="https://flic.kr/s/aHBqjCjm8p">GBIF artwork</a> in Flickr
 
 height: 85vh
 parallax: true
