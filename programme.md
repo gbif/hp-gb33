@@ -3,7 +3,7 @@ title: Programme
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB33-hed-14.png
 imageLicense: |
-  Pending - Via [flickr](https://flic.kr/p/dkewRT)
+  Illustration of <a href="https://www.gbif.org/species/2480696"><i>Neophron percnopterus</i> (Linnaeus, 1758)</a> from Coloured figures of the birds of the British Islands. v.1, London :R. H. Porter,1885-1897. - Via Biodiversity Heritage Library via [flickr](https://flic.kr/p/abM5Mq)
 toc: true
 ---
 
