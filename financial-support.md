@@ -3,7 +3,7 @@ title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB33-hed-11.png
 imageLicense: |
-  Pending - Via [Biodiversity Heritage Library.](https://flic.kr/p/Diwh57)
+  Illustration of <a href="https://www.gbif.org/species/2224343"><i>Lithodes maja</i> (Linnaeus, 1758)</a> from Le règne animal distribué d'après son organisation Paris :Fortin, Masson et cie,[1836-1849]. Under public domain via [Biodiversity Heritage Library](https://flic.kr/p/2jopta8)
 ---
 
 THIS TEXT NEEDS TO BE CHECKED AND APPROVED BY JOE  
