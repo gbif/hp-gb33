@@ -1,9 +1,9 @@
 ---
 title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB32-hed-13.jpg
+background: /assets/images/GB33-hed-12.png
 imageLicense: |
-  Illustration of a Colombian lesserblack tarantula [*Xenesthis immanis* (Ausserer, 1875).](https://www.gbif.org/species/2153397)from Animaux venimeux et venins, Marie Phisalix. Paris, 1922. Via the [Biodiversity Heritage Library](https://flic.kr/p/2m6aa4z)
+  Pending - Via the [Biodiversity Heritage Library](https://flic.kr/p/2m6aa4z)
 toc: true
 mobileToc: true
 ---
@@ -36,7 +36,7 @@ ADD INFO
 ## Hotels
 Meeting attendees are asked to organize their own accommodation.
 
-The local organizers have made a block booking for the following hotels: 
+The local organizers have made a block booking for the following hotels:
 
 **Clarion Hotel Oslo**  
 Dronning Eufemias gate 15  
@@ -69,7 +69,7 @@ Norway
 ### VENUE 1   
 ADD INFO   
 
-### VENUE 2 
+### VENUE 2
 ADD INFO  
 
 
@@ -106,5 +106,3 @@ ADD INFO
 
 ## Tourist information
 ADD INFO   
-
-
