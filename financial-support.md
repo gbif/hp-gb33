@@ -1,7 +1,7 @@
 ---
 title: Financial support
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB33-hed-16.png
+background: /assets/images/GB33-hed-11.png
 imageLicense: |
   Pending - Via [Biodiversity Heritage Library.](https://flic.kr/p/Diwh57)
 ---
