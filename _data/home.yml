@@ -20,19 +20,19 @@ cards:
       isPrimary: true
   - title: Registration
     description: Register for the meeting.
-    background: /assets/images/GB32-feat-16.jpg
+    background: /assets/images/GB33-feat-04.png
     href: /registration
   - title: Meeting documents
     description: Get access to the meeting documents.
-    background: /assets/images/GB32-feat-15.jpg
+    background: /assets/images/GB33-feat-05.png
     href: /meeting-documents
   - title: Financial support
     description: "Apply for financial support. Deadline: XX XXXX 2026."
-    background: /assets/images/GB32-feat-14.jpg
+    background: /assets/images/GB33-feat-06.png
     href: /financial-support
   - title: Travel, accommodation and venues
     description: Find useful information on travel, hotels and venues.
-    background: /assets/images/GB32-feat-13.jpg
+    background: /assets/images/GB33-feat-07.png
     href: /travel-accommodation
 
 
@@ -41,11 +41,11 @@ occurrences:
   preTitle: Did you know?
   title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=COL.5.1_2&limit=0">55,000</span> occurrences in Bogota
   description: |      # required
-    Check out the GBIF data for Bogota.
+    Check out the GBIF data for Oslo.
   # img required
-  background: /assets/images/GB32-bg.jpg
+  background: /assets/images/GB33-bg-hp.jpg
   imageLicense: |
-    GBIF secretariat 2024 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    <a href="https://flic.kr/p/2s55Lzp"><i>Forma Imaginis</i></a> by Javier Gamboa. GBIF Secretariat, 2026. Licenced under <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0.</a> View more <a href="https://flic.kr/s/aHBqjCjm8p">GBIF artwork</a> in Flickr
   href: /biodiversity-of-bogota?view=MAP
   cta:
   - text: Explore the area
