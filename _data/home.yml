@@ -2,19 +2,19 @@ cards:
   title: Welcome to Oslo, Norway
   description: |
     HOST NAME, on behalf of Norway, is pleased to host the 33rd meeting (GB33) of the GBIF Governing Board in Oslo, Norway.
-   
-    Please visit the [programme page](/programme) for a full description of the individual events taking place.  
 
-      
-   
+    Please visit the [programme page](/programme) for a full description of the individual events taking place.
 
-    
-  features: 
+
+
+
+
+  features:
   - title: Programme
     description: See the detailed programme for the events and download the one-page overview of all the events.
-    background: /assets/images/GB32-feat-17.jpg
+    background: /assets/images/GB33-feat-03.png
     href: /programme
-    cta: 
+    cta:
     - text: download
       href: /assets/documents/programme.pdf
       isPrimary: true
