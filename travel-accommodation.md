@@ -3,7 +3,7 @@ title: Travel, accommodation and venues
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB33-hed-12.png
 imageLicense: |
-  Pending - Via the [Biodiversity Heritage Library](https://flic.kr/p/2m6aa4z)
+  Illustration of <a href="https://www.gbif.org/species/2330574"><i>Ascidia virginea</i> Müller, 1776</a> from Zoologia danica, sev Animalivm Daniae et Norvegiae rariorvm ac minvs notorvm descriptiones et historia .... Havniae :typis N. Mölleri aulae regiae typographi et filii,1788-1806. Under public domain via [Biodiversity Heritage Library](https://flic.kr/p/cqmnBo)
 toc: true
 mobileToc: true
 ---
