@@ -39,15 +39,15 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=COL.5.1_2&limit=0">55,000</span> occurrences in Bogota
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=NOR.12.1_1&occurrenceStatus=PRESENT&limit=0">55,000</span> occurrences in Bogota
   description: |      # required
     Check out the GBIF data for Oslo.
   # img required
   background: /assets/images/GB33-bg-hp.jpg
   imageLicense: |
     <a href="https://flic.kr/p/2s55Lzp"><i>Forma Imaginis</i></a> by Javier Gamboa. GBIF Secretariat, 2026. Licenced under <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0.</a> View more <a href="https://flic.kr/s/aHBqjCjm8p">GBIF artwork</a> in Flickr
-  href: /biodiversity-of-bogota?view=MAP
+  href: /biodiversity-of-oslo?view=MAP
   cta:
   - text: Explore the area
-    href: /biodiversity-of-bogota?view=MAP
+    href: /biodiversity-of-oslo?view=MAP
     isPrimary: true
