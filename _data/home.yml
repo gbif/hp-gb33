@@ -39,7 +39,7 @@ cards:
 occurrences:
   reverse: false
   preTitle: Did you know?
-  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=NOR.12.1_1&occurrenceStatus=PRESENT&limit=0">55,000</span> occurrences in Bogota
+  title: There are <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?gadmGid=NOR.12.1_1&occurrenceStatus=PRESENT&limit=0">55,000</span> occurrences in Oslo
   description: |      # required
     Check out the GBIF data for Oslo.
   # img required
