@@ -6,7 +6,6 @@ imageLicense: |
   Illustration of <a href="https://www.gbif.org/species/2224343"><i>Lithodes maja</i> (Linnaeus, 1758)</a> from Le règne animal distribué d'après son organisation Paris :Fortin, Masson et cie,[1836-1849]. Under public domain via [Biodiversity Heritage Library](https://flic.kr/p/2jopta8)
 ---
 
-THIS TEXT NEEDS TO BE CHECKED AND APPROVED BY JOE  
 The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on 29 September -1 October 2026. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation or a general lump sum.  
 
 **The application process is now open.**   
@@ -25,7 +24,7 @@ These countries will be countries whose per capita GDP was less than 13,500 acco
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
 ## How to apply?
-Fill in the GB33 application form for partial financial support and submit the form no later than **ADD DATE. Applications received after the deadline will not be considered**.  
+Fill in the GB33 application form for partial financial support and submit the form no later than **5 June 2026. Applications received after the deadline will not be considered**.  
 
 **The application form can be found here ADD LINK**
 
