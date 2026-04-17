@@ -3,7 +3,7 @@ title: Sponsors
 # description: Species occurrence data for the United States and U.S. Territories.
 background: assets/images/GB33-hed-17.png
 imageLicense: |
-  lllustration of a Central American Woolly Opossum [*Caluromys derbianus*  (Waterhouse, 1841)](https://www.gbif.org/species/2439992) from Biologia Centrali-Americana. Mammalia (1879-1882), via the [Biodiversity Heritage Library](https://flic.kr/p/dkeBX3)
+  Illustration of a Cuvier s Beaked Whale (<a href="https://www.gbif.org/species/2440369"><i>Ziphius cavirostris</i> G.Cuvier, 1823) from <a href="https://www.biodiversitylibrary.org/page/16008105">Compléments de Buffon (Vol. 1). P. Pourrat Frères. Lesson, René-Primevère, Buffon, Georges Louis Leclerc, & Lacrampe et cie. (1838)</a>. Under public domain via the <a href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</a> 
 ---
 
 <table style="border-collapse: collapse; border: none;">
