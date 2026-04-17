@@ -3,7 +3,7 @@ title: Contact
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/GB33-hed-13.png
 imageLicense: |
-  lllustration of a brain coral [*Diploria labyrinthiformis* (Linnaeus, 1758)](https://www.gbif.org/species/2260167) from The naturalist's miscellany, or Coloured figures of natural objects. London, 1789-1813 via the [Biodiversity Heritage Library](https://flic.kr/p/N3oYzy)
+  Illustration of an Atlantic Walrus (<a href="https://www.gbif.org/species/5218819"><i>Odobenus rosmarus</i> (Linnaeus, 1758</a>) from <a href="https://www.biodiversitylibrary.org/page/31210250">Proceedings of the Zoological Society of London (Vol. 1909, Issue 3) Academic Press, [etc.]. Zoological Society of London. & Zoological Society of London. (1833)</a>. Under public domain via the <a href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</a>  
 ---
 
 ### National host
