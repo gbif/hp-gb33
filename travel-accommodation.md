@@ -10,7 +10,7 @@ mobileToc: true
 
 ## Travel requirements for entering Norway
 
-Information about requirements for entering Norway. Check if you need a visa to visit Norway. If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an invitation letter.
+Information about requirements for entering Norway. [Check if you need a visa to visit Norway](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?). If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an [invitation letter](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679).
 
 **Norwegian Directorate of Immigration (UDI) information pages**
 * [https://www.udi.no/en/want-to-apply/visit-and-holiday/](https://www.udi.no/en/want-to-apply/visit-and-holiday/)
@@ -79,7 +79,6 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 
 **UiO Campus City Centre:**
 * [https://www.uio.no/english/about/getting-around/areas/city-centre/](https://www.uio.no/english/about/getting-around/areas/city-centre/)
-* [https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.736589,59.916022&zoom=16.3](https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.736589,59.916022&zoom=16.3)
 * **Photos:** [https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/+/sentrum/](https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/+/sentrum/)
 
 ---
