@@ -64,7 +64,7 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 
 | Hotel | Details |
 | :--- | :--- |
-| ![Clarion Hotel Oslo](/assets/images/hotel-1.jpg/400x250?text=Clarion+Hotel+Oslo) | **Clarion Hotel Oslo**<br>255 rooms, 500 m from Central Station |
+| ![Clarion Hotel Oslo](https://images.ctfassets.net/nwbqij9m1jag/4DqSuXDWeNgVZFC8AYXnKg/4f8569a920a4dd014c21c7803dcc2514/Clarion_Hotel_Oslo_-_Facade_-_Tall_hotel_building_original?fm=webp&q=80&w=400) | **Clarion Hotel Oslo**<br>255 rooms, 500 m from Central Station |
 | ![Clarion Hotel The Hub](https://placehold.co/400x250?text=Clarion+Hotel+The+Hub) | **Clarion Hotel The Hub**<br>810 rooms, 190 m from Central Station |
 | ![Clarion Collection Hotel Folketeateret](https://placehold.co/400x250?text=Clarion+Collection+Folketeateret) | **Clarion Collection Hotel Folketeateret**<br>160 rooms, 350 m to Central Station |
 
