@@ -127,6 +127,11 @@ Oslo is a safe city with a relatively low crime rate. However, it is recommended
 * Pharmacies can be found all over Oslo. The pharmacy across the street from the Central Station is open 24 hours.
 * No particular vaccination is required: [https://www.fhi.no/en/in/travel/traveladvice-vaccines/europe/norway/](https://www.fhi.no/en/in/travel/traveladvice-vaccines/europe/norway/)
 
+### Norwegian restaurants
+* [https://www.visitoslo.com/en/articles/norwegian-restaurants/](https://www.visitoslo.com/en/articles/norwegian-restaurants)
+* [https://www.visitoslo.com/en/restaurants-nightlife/restaurants/](https://www.visitoslo.com/en/restaurants-nightlife/restaurants/)
+* [https://www.visitnorway.com/places-to-go/eastern-norway/oslo/food-drink/](https://www.visitnorway.com/places-to-go/eastern-norway/oslo/food-drink/)
+
 ### Tipping
 Tipping in Oslo is not mandatory. 5-15% tipping or rounding to the nearest 10 or 100 kr is usual for restaurants if the service is good.
 * Most restaurants close the kitchen at 21:30
