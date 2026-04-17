@@ -49,7 +49,7 @@ imageLicense: |
   </tr>
   <tr style="border: none;">
     <td style="padding: 20px; border: none;">
-      <img src="https://manual.uib.no/wp-content/themes/uib-profilmanual/img/logo-uib.png" width="420">
+      <img src="/assets/images/UiB_Positiv2linjer_ENG.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
       University of Bergen (UiB)
@@ -65,7 +65,7 @@ imageLicense: |
   </tr>
   <tr style="border: none;">
     <td style="padding: 20px; border: none;">
-      <img src="https://www.hi.no/en/hi/om-oss/logo/hi-logo-eng-rgb.png/original" width="420">
+      <img src="https://mediebank.hi.no/fotoweb/cache/5006/Archives/Kart%20og%20illustrasjoner/Illustrasjoner%20og%20figurer/Illustrasjoner/Logo/HI%20logo%20farger%20nynorsk.t5c9ca7fe.m1600%401.pdf.pv.xsiBnuGjf.jpg" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
       Institute of Marine Research (IMR)
