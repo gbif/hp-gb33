@@ -72,7 +72,10 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 
 ## Venues
 
-![UiO Campus City Centre](https://www.uio.no/english/about/getting-around/areas/city-centre/domus-media.jpg)
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <iframe width="100%" height="420" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&amp;config=uio&amp;campusid=801&amp;zlevel=1&amp;center=10.736589,59.916022&amp;zoom=15.4&amp;utm_medium=iframe" style="border:1px solid #ddd; max-width: 800px; border-radius: 8px;" allow="geolocation" title="Map by MazeMap"></iframe>
+  <small style="margin-top: 8px;"><a href="https://www.mazemap.com/" target="_blank">View larger map on MazeMap</a></small>
+</div>
 
 **UiO Campus City Centre:**
 * [https://www.uio.no/english/about/getting-around/areas/city-centre/](https://www.uio.no/english/about/getting-around/areas/city-centre/)
