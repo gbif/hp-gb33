@@ -12,8 +12,7 @@ imageLicense: |
       <img src="https://anti-brands.fra1.digitaloceanspaces.com/brands/forskningsradet/media/_1400x577_fit_center-center_82_none/Forskningsradet_Stottet-logo_Bokmal_01_Weller_RGB.svg" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Research Council of Norway (RCN)<br>
-      <a href="https://www.forskningsradet.no/en/">https://www.forskningsradet.no/en/</a>
+      <a href="https://www.forskningsradet.no/en/">Research Council of Norway (RCN)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -21,8 +20,7 @@ imageLicense: |
       <img src="https://www.uio.no/om/designmanual/profilelementer/logo/formell-logo-engelsk/03_uio_full_logo_eng_pos.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      University of Oslo, Natural History Museum (UiO, NHMO)<br>
-      <a href="https://www.nhm.uio.no/english/">https://www.nhm.uio.no/english/</a>
+      <a href="https://www.nhm.uio.no/english/">University of Oslo, Natural History Museum (UiO, NHMO)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -30,8 +28,7 @@ imageLicense: |
       <img src="https://artsdatabanken.no/Files/55926" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Norwegian Biodiversity Information Centre (NBIC) - Artsdatabanken<br>
-      <a href="https://www.artsdatabanken.no/">https://www.artsdatabanken.no/</a>
+      <a href="https://www.artsdatabanken.no/">Norwegian Biodiversity Information Centre (NBIC) - Artsdatabanken</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -39,8 +36,7 @@ imageLicense: |
       <img src="https://i.ntnu.no/documents/1305837853/1306916684/ntnu_med_slagord_hoeyde_bokmaal.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Norwegian University of Science and Technology (NTNU)<br>
-      <a href="https://www.ntnu.edu/">https://www.ntnu.edu/</a>
+      <a href="https://www.ntnu.edu/">Norwegian University of Science and Technology (NTNU)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -48,8 +44,7 @@ imageLicense: |
       <img src="/assets/images/UiT_Segl_Bok_Bla_960px.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Arctic University of Norway (UiT)<br>
-      <a href="https://en.uit.no/">https://en.uit.no/</a>
+      <a href="https://en.uit.no/">Arctic University of Norway (UiT)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -57,8 +52,7 @@ imageLicense: |
       <img src="/assets/images/UiB_Positiv2linjer_ENG.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      University of Bergen (UiB)<br>
-      <a href="https://www.uib.no/en">https://www.uib.no/en</a>
+      <a href="https://www.uib.no/en">University of Bergen (UiB)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -66,8 +60,7 @@ imageLicense: |
       <img src="https://hunt.nina.no/portals/hunt/Images/Logo/nina.png" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Norwegian Institute for Nature Research (NINA)<br>
-      <a href="https://www.nina.no/english/">https://www.nina.no/english/</a>
+      <a href="https://www.nina.no/english/">Norwegian Institute for Nature Research (NINA)</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -75,8 +68,7 @@ imageLicense: |
       <img src="https://mediebank.hi.no/fotoweb/cache/5006/Archives/Kart%20og%20illustrasjoner/Illustrasjoner%20og%20figurer/Illustrasjoner/Logo/HI%20logo%20farger%20nynorsk.t5c9ca7fe.m1600%401.pdf.pv.xsiBnuGjf.jpg" width="420">
     </td>
     <td style="padding: 20px; border: none; vertical-align: middle;">
-      Institute of Marine Research (IMR)<br>
-      <a href="https://www.hi.no/en">https://www.hi.no/en</a>
+      <a href="https://www.hi.no/en">Institute of Marine Research (IMR)</a>
     </td>
   </tr>
 </table>
