@@ -87,7 +87,17 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 ## Map
 
 * **Google Map (GB33 venues):** [https://maps.app.goo.gl/ciRZsPxonxAKkkxd7](https://maps.app.goo.gl/ciRZsPxonxAKkkxd7) (link to view)
-
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+  <iframe
+    src="https://maps.app.goo.gl/1D4ADixrRC9d9qJAA" 
+    width="100%"
+    height="450"
+    style="border:0; max-width: 800px; border-radius: 8px;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 ---
 
 ## General information
