@@ -1,7 +1,7 @@
 ---
 title: Contact
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/GB32-hed-11.jpg
+background: /assets/images/GB33-hed-13.png
 imageLicense: |
   lllustration of a brain coral [*Diploria labyrinthiformis* (Linnaeus, 1758)](https://www.gbif.org/species/2260167) from The naturalist's miscellany, or Coloured figures of natural objects. London, 1789-1813 via the [Biodiversity Heritage Library](https://flic.kr/p/N3oYzy)
 ---
@@ -20,7 +20,3 @@ Please contact the GBIF Secretariat if you have any questions regarding the foll
 
 GBIF Secretariat  
 Email: [GB33@gbif.org](mailto:GB33@gbif.org)  
-
-
-
-
