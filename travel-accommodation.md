@@ -10,15 +10,15 @@ mobileToc: true
 
 ## Travel requirements for entering Norway
 
-Information about requirements for entering Norway. Check if you need a visa to visit Norway. If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email gb33@gbif.org for an invitation letter.
+Information about requirements for entering Norway. Check if you need a visa to visit Norway. If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an invitation letter.
 
 **Norwegian Directorate of Immigration (UDI) information pages**
-* https://www.udi.no/en/want-to-apply/visit-and-holiday/
-* https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/
-* https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679
+* [https://www.udi.no/en/want-to-apply/visit-and-holiday/](https://www.udi.no/en/want-to-apply/visit-and-holiday/)
+* [https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/)
+* [https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679)
 
 **Norwegian Ministry of Foreign Affairs (Norwegian Embassies by country)**
-* https://www.norway.no/
+* [https://www.norway.no/](https://www.norway.no/)
 
 ---
 
@@ -26,21 +26,21 @@ Information about requirements for entering Norway. Check if you need a visa to 
 
 GB33 attendees are asked to organize their own travel.
 
-* **Visit Oslo (tourist office):** https://www.visitoslo.com/
-* **practical information:** https://www.visitoslo.com/en/oslo/practical-information/
-* **hotels in Oslo:** https://www.visitoslo.com/en/accommodation/hotel/
+* **Visit Oslo (tourist office):** [https://www.visitoslo.com/](https://www.visitoslo.com/)
+* **practical information:** [https://www.visitoslo.com/en/oslo/practical-information/](https://www.visitoslo.com/en/oslo/practical-information/)
+* **hotels in Oslo:** [https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
 
-**Main Airport (Gardermoen, OSL)** https://www.avinor.no/en/airport/oslo/
+**Main Airport (Gardermoen, OSL)** [https://www.avinor.no/en/airport/oslo/](https://www.avinor.no/en/airport/oslo/)
 * 19 minutes by airport train to the Oslo city center
 * Direct routes to 112 international destinations
 * Contactless and self-service check-in, bag-drop, and boarding
 * Europe’s most punctual major airport according to Eurocontrol statistics.
 * We recommend using the main airport, OSL.
-* **Regular train, VY:** http://www.vy.no/ (approx every 30 min, 134 kr = 12,4 euro)
-* **Airport express train:** https://flytoget.no/ (every 10 min, 268 kr = 25 euro)
+* **Regular train, VY:** [http://www.vy.no/](http://www.vy.no/) (approx every 30 min, 134 kr = 12,4 euro)
+* **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
 * The airport trains stop at the main Oslo Central Station, and at the secondary train station Nationaltheatret (National Theatre), which is very close to the UiO campus City Centre.
 
-**Charter airport (Torp, Sandefjord)** https://torp.no/
+**Charter airport (Torp, Sandefjord)** [https://torp.no/](https://torp.no/)
 * 1,5 hour by train or bus to the Oslo city center
 * Main train station (downtown, walking distance to venues and hotels)
 
@@ -48,9 +48,9 @@ GB33 attendees are asked to organize their own travel.
 
 ## Local transportation
 
-* **Ruter** - local bus, tram, metro, ferry, train, with the same ticket: https://ruter.no/en
-* https://ruter.no/en/about-our-tickets
-* https://www.visitoslo.com/en/product/?tlp=2984543
+* **Ruter** - local bus, tram, metro, ferry, train, with the same ticket: [https://ruter.no/en](https://ruter.no/en)
+* [https://ruter.no/en/about-our-tickets](https://ruter.no/en/about-our-tickets)
+* [https://www.visitoslo.com/en/product/?tlp=2984543](https://www.visitoslo.com/en/product/?tlp=2984543)
 * Everything in the city centre is within walking distance
 
 ---
@@ -60,30 +60,30 @@ GB33 attendees are asked to organize their own travel.
 GB33 attendees are asked to organize their own accommodation. We have made a block reservation for three hotels. The block reservation code is “TDWG 2026” (20% discount).
 
 **Block booking reservation link** (valid to 2026-08-01):
-https://www.visitoslo.com/en/accommodation/hotel/
+[https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
 
 | Hotel | Details |
 | :--- | :--- |
-| ![Clarion Hotel Oslo](https://www.strawberry.no/globalassets/hotels/norway/oslo/clarion-hotel-oslo/exterior-and-surroundings/exterior-day-clarion-hotel-oslo.jpg?width=400) | **Clarion Hotel Oslo**<br>255 rooms, 500 m from Central Station |
-| ![Clarion Hotel The Hub](https://www.strawberry.no/globalassets/hotels/norway/oslo/clarion-hotel-the-hub/exterior-and-surroundings/exterior-night-clarion-hotel-the-hub.jpg?width=400) | **Clarion Hotel The Hub**<br>810 rooms, 190 m from Central Station |
-| ![Clarion Collection Hotel Folketeateret](https://www.strawberry.no/globalassets/hotels/norway/oslo/clarion-collection-hotel-folketeateret/exterior-and-surroundings/exterior-day-clarion-collection-hotel-folketeateret.jpg?width=400) | **Clarion Collection Hotel Folketeateret**<br>160 rooms, 350 m to Central Station |
+| ![Clarion Hotel Oslo](https://www.strawberryhotels.com/globalassets/hotels/norway/oslo/clarion-hotel-oslo/exterior-and-surroundings/exterior-day-clarion-hotel-oslo.jpg) | **Clarion Hotel Oslo**<br>255 rooms, 500 m from Central Station |
+| ![Clarion Hotel The Hub](https://www.strawberryhotels.com/globalassets/hotels/norway/oslo/clarion-hotel-the-hub/exterior-and-surroundings/exterior-night-clarion-hotel-the-hub.jpg) | **Clarion Hotel The Hub**<br>810 rooms, 190 m from Central Station |
+| ![Clarion Collection Hotel Folketeateret](https://www.strawberryhotels.com/globalassets/hotels/norway/oslo/home-hotel-folketeateret/exterior-and-surroundings/home-hotel-folketeateret-exterior-day.jpg) | **Clarion Collection Hotel Folketeateret**<br>160 rooms, 350 m to Central Station |
 
 ---
 
 ## Venues
 
-![UiO Campus City Centre](https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/Thumbnails/Preview/UiO_Sentrum_01.jpg)
+![UiO Campus City Centre](https://www.uio.no/english/about/getting-around/areas/city-centre/domus-media.jpg)
 
 **UiO Campus City Centre:**
-* https://www.uio.no/english/about/getting-around/areas/city-centre/
-* https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.736589,59.916022&zoom=16.3
-* **Photos:** https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/+/sentrum/
+* [https://www.uio.no/english/about/getting-around/areas/city-centre/](https://www.uio.no/english/about/getting-around/areas/city-centre/)
+* [https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.736589,59.916022&zoom=16.3](https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.736589,59.916022&zoom=16.3)
+* **Photos:** [https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/+/sentrum/](https://uio.fotoware.cloud/fotoweb/archives/5051-UiO-Bygninger/+/sentrum/)
 
 ---
 
 ## Map
 
-* **Google Map (GB33 venues):** https://maps.app.goo.gl/ciRZsPxonxAKkkxd7 (link to view)
+* **Google Map (GB33 venues):** [https://maps.app.goo.gl/ciRZsPxonxAKkkxd7](https://maps.app.goo.gl/ciRZsPxonxAKkkxd7) (link to view)
 
 ---
 
@@ -91,8 +91,8 @@ https://www.visitoslo.com/en/accommodation/hotel/
 
 ### Climate and weather
 Typical weather in September, high 16° C, low  9° C, 9 days of rain
-* https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-72837/Norge/Oslo/Oslo/Oslo
-* https://www.visitnorway.com/plan-your-trip/seasons-climate/
+* [https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-72837/Norge/Oslo/Oslo/Oslo](https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-72837/Norge/Oslo/Oslo/Oslo)
+* [https://www.visitnorway.com/plan-your-trip/seasons-climate/](https://www.visitnorway.com/plan-your-trip/seasons-climate/)
 
 ### Electricity
 Norway has 220 volts, AC of 50 Hertz, a European continental-style two-pin plug
@@ -100,7 +100,7 @@ Norway has 220 volts, AC of 50 Hertz, a European continental-style two-pin plug
 ### Internet and telecommunications
 Internet in Norway is advanced, featuring extensive 5G coverage, widespread fiber-optic availability, and high speeds.
 * Mobile internet providers include Telenor and Telia
-* The university campus has Edurom and UioGuest WiFi options: https://www.uio.no/english/services/it/network/wireless/help/uioguest.html
+* The university campus has Edurom and UioGuest WiFi options: [https://www.uio.no/english/services/it/network/wireless/help/uioguest.html](https://www.uio.no/english/services/it/network/wireless/help/uioguest.html)
 * We will also provide a meeting WiFi network for the GB33 meeting
 
 ### Language
@@ -121,9 +121,9 @@ Oslo is a safe city with a relatively low crime rate. However, it is recommended
 
 ### Health
 * Tap water in Oslo is of excellent quality
-* Oslo Emergency Ward is open 24 hours every day: https://www.visitoslo.com/en/product/?tlp=2983953
+* Oslo Emergency Ward is open 24 hours every day: [https://www.visitoslo.com/en/product/?tlp=2983953](https://www.visitoslo.com/en/product/?tlp=2983953)
 * Pharmacies can be found all over Oslo. The pharmacy across the street from the Central Station is open 24 hours.
-* No particular vaccination is required: https://www.fhi.no/en/in/travel/traveladvice-vaccines/europe/norway/
+* No particular vaccination is required: [https://www.fhi.no/en/in/travel/traveladvice-vaccines/europe/norway/](https://www.fhi.no/en/in/travel/traveladvice-vaccines/europe/norway/)
 
 ### Tipping
 Tipping in Oslo is not mandatory. 5-15% tipping or rounding to the nearest 10 or 100 kr is usual for restaurants if the service is good.
@@ -133,6 +133,6 @@ Tipping in Oslo is not mandatory. 5-15% tipping or rounding to the nearest 10 or
 
 ## Tourist information
 
-* **Tourist information Oslo:** https://www.visitoslo.com/en/
-* **Tourist information Norway:** https://www.visitnorway.com/
-* **Norwegian restaurants:** https://www.visitoslo.com/en/articles/norwegian-restaurants/ 
+* **Tourist information Oslo:** [https://www.visitoslo.com/en/](https://www.visitoslo.com/en/)
+* **Tourist information Norway:** [https://www.visitnorway.com/](https://www.visitnorway.com/)
+* **Norwegian restaurants:** [https://www.visitoslo.com/en/articles/norwegian-restaurants/](https://www.visitoslo.com/en/articles/norwegian-restaurants/)
