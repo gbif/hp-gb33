@@ -6,14 +6,13 @@ imageLicense: |
   Illustration of <a href="https://www.gbif.org/species/2224343"><i>Lithodes maja</i> (Linnaeus, 1758)</a> from Le règne animal distribué d'après son organisation Paris :Fortin, Masson et cie,[1836-1849]. Under public domain via [Biodiversity Heritage Library](https://flic.kr/p/2jopta8)
 ---
 
-THIS TEXT NEEDS TO BE CHECKED AND APPROVED BY JOE  
 The GBIF Secretariat offers the possibility of applying for partial financial support to attend the Governing Board meeting on 29 September -1 October 2026. Support may include partial funding of economy-class flight tickets and a subsidy to cover accommodation or a general lump sum.  
 
 **The application process is now open.**   
 
 Please see below for more details on the guidelines for seeking partial funding for the event. Link to the application form can be found at the bottom of the page.
 
-The deadline for applying for partial financial suppport is **ADD DATE**.    
+The deadline for applying for partial financial suppport is **5 June 2026**.    
 
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline.  
 
@@ -25,9 +24,9 @@ These countries will be countries whose per capita GDP was less than 13,500 acco
 Only one person per Voting Participant, the Head of Delegation, is eligible to apply for partial support. However, the Head of Delegation can reassign the support to a member of the delegation.  
 
 ## How to apply?
-Fill in the GB33 application form for partial financial support and submit the form no later than **ADD DATE. Applications received after the deadline will not be considered**.  
+Fill in the GB33 application form for partial financial support and submit the form no later than **5 June 2026**. Applications received after the deadline will not be considered.  
 
-**The application form can be found here ADD LINK**
+**The application form can be found [here](https://forms.gle/cRUbx3qr2TDiSrZ38)**
 
 Please note that funding will as a rule not be provided in advance of the meeting but by reimbursement after the meeting. Recognizing the lengthy time span between purchase of flight ticket and reimbursement of costs, the GBIF Secretariat offers the opportunity to reimburse flight costs straight after the tickets have been purchased, based on receipts, if needed. If applicants to not have the means to pre-finance the cost of a flight ticket, they may apply for GBIF to pay the air ticket costs directly.   
 
