@@ -8,7 +8,7 @@ imageLicense: |
 
 | Logo | Sponsor |
 | :--- | :--- |
-| <img src="https://www.forskningsradet.no/siteassets/forskningsradet-logo-eng.png" width="420"> | Research Council of Norway (RCN) |
+| <img src="https://anti-brands.fra1.digitaloceanspaces.com/brands/forskningsradet/media/_1400x577_fit_center-center_82_none/Forskningsradet_Stottet-logo_Bokmal_01_Weller_RGB.svg" width="420"> | Research Council of Norway (RCN) |
 | <img src="https://www.uio.no/om/designmanual/profilelementer/logo/formell-logo-engelsk/03_uio_full_logo_eng_pos.png" width="420"> | University of Oslo, Natural History Museum (UiO, NHMO) |
 | <img src="https://artsdatabanken.no/Files/55926" width="420"> | Norwegian Biodiversity Information Centre (NBIC) - Artsdatabanken |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-Ntnu.svg/800px-Logo-Ntnu.svg.png" width="420"> | Norwegian University of Science and Technology (NTNU) |
