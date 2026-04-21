@@ -6,15 +6,13 @@ imageLicense: |
   Illustration of <a href="https://www.gbif.org/species/5216024"><i>Raja clavata </i> Linnaeus, 1758</a> from The game birds and wild fowl of Sweden and Norway London,F. Warne and co.,1867. Under public domain via [Biodiversity Heritage Library](https://flic.kr/p/2kyBPRk) 
 ---
 
-Here you can register for:
+Before registering, we kindly ask you to read the requirements for registering for the events in the ['General Terms and Conditions for the GB33 meeting and associated events'](/assets/documents/GB33_terms.pdf).
+
+If you have the appropriate roles, you can here register for:
 - GBIF committee meetings
 - GBIF Governing Board meeting
-- Symposium CHECK WITH NORWEGIANS IF THEY WANT TO DO THIS SEPARATELY. WILL ALSO DEPEND ON WHICH REGISTRATION SYSTEM WE WILL USE
+- Science Symposium
 - Social events
-
-Before registering, we kindly ask you to read the requirements for registering for the events in the 'General Terms and Conditions for the GB33 meeting and associated events' ADD LINK.
-
-Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat.
 
 Click here ADD LINK to register.
 
