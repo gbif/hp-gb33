@@ -98,7 +98,3 @@ Venue: University of Oslo Aula
 
 *The Science Symposium is open to Governing Board delgates, GBIF committee members and other invited participants*  
 
-
-
-
-More information available at <a href="https://www.livingdata2025.com/" target="_blank">Living Data 2025 Conference</a>  
