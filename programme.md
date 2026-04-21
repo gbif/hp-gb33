@@ -13,7 +13,7 @@ Please note that unless indicated, the events will be in-person on site only.
 
 [Pre-registration](/registration) is required for all GB33 events.
 
-Please note that the GB33 events will take place just after the <a href="https://www.tdwg.org/conferences/2026/" target="_blank">TDWG 2026</a> which will take place in Oslo on 21-25 September 2026.     
+Please note that the GB33 events will take place the week after the <a href="https://www.tdwg.org/conferences/2026/" target="_blank">TDWG 2026 Conference</a> which will take place in Oslo on 21-25 September 2026. Both TDWG 2026 and the GB33 events will take place in downtown Oslo.     
 
 
 ## Printable GB33 PDF programme
@@ -30,33 +30,33 @@ Please read the information carefully before registering.
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: [UiO Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: [UiO Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: [UiO Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Executive Committee meeting**  
 Time: 13:30-17:00   
-Venue: [UiO Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)  
+Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)  
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**  
 Time: TBC
-Venue: [Climate House, museum campus Tøyen](https://www.nhm.uio.no/english/climate-house/)
+Venue: [Climate House, campus Tøyen](https://www.nhm.uio.no/english/climate-house/)
 
-*The Icebreaker is to Governing Board delegates, GBIF committee members and invited observers*
+*The Icebreaker is open to Governing Board delegates, GBIF committee members and invited observers*
 
 ### Tuesday, 29 September 2026
 
@@ -76,7 +76,7 @@ Venue: TBC
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
 **Hosted dinner**  
-Time: TBC   
+Time: 19:00-22:00   
 Venue: TBC      
 
 *The Hosted dinner is to Governing Board delegates, GBIF committee members and invited observers*
@@ -92,11 +92,11 @@ Venue: TBC
 
 ### Friday, 2 October 2026
 
-**Symposium**  
-Time: TBC   
-Venue: TBC      
+**Science Symposium**  
+Time: 09:00-17:00     
+Venue: University of Oslo Aula      
 
-*DESCRIPTION TEXT TO BE ADDED*
+*The Science Symposium is open to Governing Board delgates, GBIF committee members and other invited participants*  
 
 
 
