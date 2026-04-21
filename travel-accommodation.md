@@ -8,6 +8,8 @@ toc: true
 mobileToc: true
 ---
 
+Meeting attendees are responsible for arranging their own travel and to ensure that they have the documentation required for entering Norway.
+
 ## Travel requirements for entering Norway
 
 Information about requirements for entering Norway. [Check if you need a visa to visit Norway](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?). If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an [invitation letter](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679).
