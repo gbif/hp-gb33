@@ -32,28 +32,40 @@ Meeting attendees are advised to ensure appropriate comprehensive health and tra
 
 ## Arriving in Norway
 
+### International airports
 The primary airport for international arrivals is **Gardermoen (OSL)** [https://www.avinor.no/en/airport/oslo/](https://www.avinor.no/en/airport/oslo/)
 * 19 minutes by airport train to the Oslo city center
 * Direct routes to 112 international destinations
 * Contactless and self-service check-in, bag-drop, and boarding
 * Europe’s most punctual major airport according to Eurocontrol statistics.
 * We recommend using the main airport, OSL.
-* **Regular train, VY:** [http://www.vy.no/](http://www.vy.no/) (approx every 30 min, 134 kr = 12,4 euro)
-* **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
-* The airport trains stop at the main Oslo Central Station, and at the secondary train station Nationaltheatret (National Theatre), which is very close to the UiO campus City Centre.
 
 Another option is **Charter airport (Torp, Sandefjord)** [https://torp.no/](https://torp.no/)
 * 1,5 hour by train or bus to the Oslo city center
-* Main train station (downtown, walking distance to venues and hotels)
+
+### Train
+It is also possible to arrive in Oslo by train. The [main central train station in Oslo (Oslo S)](https://www.banenor.no/en/traffic-and-travel/railway-stations/-o-/oslo-central/) is located downtown within walking distance to venue and hotels.  
+
+### Transportation from the airport
+
+Oslo Airport has very good public transport connections to and from the airport. You can choose between train (Airport Express Train or Regional trains) or various bus options. 
+* **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
+* **Regional train, VY:** [http://www.vy.no/](http://www.vy.no/) (approx every 30 min, 134 kr = 12,4 euro)
+ 
+The airport trains stop at the main Oslo Central Station, and at the secondary train station Nationaltheatret (National Theatre), which is very close to the University of Oslo campus City Centre.
+ 
+You can also take a taxi from the airport. It takes about 40 minutes to drive from the airport to Oslo Central Station. More information available at [https://www.avinor.no/en/airport/oslo/info/Taxi/](https://www.avinor.no/en/airport/oslo/info/Taxi/).
 
 ---
 
 ## Local transportation
 
-* **Ruter** - local bus, tram, metro, ferry, train, with the same ticket: [https://ruter.no/en](https://ruter.no/en)
-* [https://ruter.no/en/about-our-tickets](https://ruter.no/en/about-our-tickets)
+It is easy to get around in Oslo, either by foot or by using public transportation. Everything in the city centre is within walking distance. 
+All public transport in Oslo and the surrounding boroughs are included in one ticketing system. The public transport system in Oslo is called 'Ruter' and their ticketing system includes city and regional buses, trams, undergrounds, local trains and ferries (the ferries to Bygdøy are not included).
+
+* [Travel planner](https://ruter.no/en)
+* [Information about tickets](https://ruter.no/en/about-our-tickets)
 * [https://www.visitoslo.com/en/product/?tlp=2984543](https://www.visitoslo.com/en/product/?tlp=2984543)
-* Everything in the city centre is within walking distance
 
 ---
 
