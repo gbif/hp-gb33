@@ -12,7 +12,7 @@ Meeting attendees are responsible for arranging their own travel and to ensure t
 
 ## Travel requirements for entering Norway
 
-Information about requirements for entering Norway. [Check if you need a visa to visit Norway](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?). If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an [invitation letter](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679).
+[Check if you need a visa to visit Norway](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?). If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an [invitation letter](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679).
 
 **Norwegian Directorate of Immigration (UDI) information pages**
 * [https://www.udi.no/en/want-to-apply/visit-and-holiday/](https://www.udi.no/en/want-to-apply/visit-and-holiday/)
@@ -24,15 +24,15 @@ Information about requirements for entering Norway. [Check if you need a visa to
 
 ---
 
+## Insurance
+
+Meeting attendees are advised to ensure appropriate comprehensive health and travel insurance for travel to Colombia.
+
+---
+
 ## Arriving in Norway
 
-GB33 attendees are asked to organize their own travel.
-
-* **Visit Oslo (tourist office):** [https://www.visitoslo.com/](https://www.visitoslo.com/)
-* **practical information:** [https://www.visitoslo.com/en/oslo/practical-information/](https://www.visitoslo.com/en/oslo/practical-information/)
-* **hotels in Oslo:** [https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
-
-**Main Airport (Gardermoen, OSL)** [https://www.avinor.no/en/airport/oslo/](https://www.avinor.no/en/airport/oslo/)
+The primary airport for international arrivals is **Gardermoen (OSL)** [https://www.avinor.no/en/airport/oslo/](https://www.avinor.no/en/airport/oslo/)
 * 19 minutes by airport train to the Oslo city center
 * Direct routes to 112 international destinations
 * Contactless and self-service check-in, bag-drop, and boarding
@@ -42,7 +42,7 @@ GB33 attendees are asked to organize their own travel.
 * **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
 * The airport trains stop at the main Oslo Central Station, and at the secondary train station Nationaltheatret (National Theatre), which is very close to the UiO campus City Centre.
 
-**Charter airport (Torp, Sandefjord)** [https://torp.no/](https://torp.no/)
+Another option is **Charter airport (Torp, Sandefjord)** [https://torp.no/](https://torp.no/)
 * 1,5 hour by train or bus to the Oslo city center
 * Main train station (downtown, walking distance to venues and hotels)
 
