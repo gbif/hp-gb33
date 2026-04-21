@@ -129,6 +129,8 @@ The Science Symposium will take place at the [University of Oslo Aula](https://w
 
 ## General information
 
+Practical information from the Tourist Information Oslo: [https://www.visitoslo.com/en/oslo/practical-information/](https://www.visitoslo.com/en/oslo/practical-information/)
+
 ### Climate and weather
 Typical weather in September, high 16° C, low 9° C, 9 days of rain
 * [https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-72837/Norge/Oslo/Oslo/Oslo](https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-72837/Norge/Oslo/Oslo/Oslo)
@@ -180,4 +182,3 @@ Tipping in Oslo is not mandatory. 5-15% tipping or rounding to the nearest 10 or
 
 * **Tourist information Oslo:** [https://www.visitoslo.com/en/](https://www.visitoslo.com/en/)
 * **Tourist information Norway:** [https://www.visitnorway.com/](https://www.visitnorway.com/)
-* **Norwegian restaurants:** [https://www.visitoslo.com/en/articles/norwegian-restaurants/](https://www.visitoslo.com/en/articles/norwegian-restaurants/)
