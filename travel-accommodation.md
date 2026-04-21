@@ -42,19 +42,20 @@ The primary airport for international arrivals is **Gardermoen (OSL)** [https://
 
 Another option is **Charter airport (Torp, Sandefjord)** [https://torp.no/](https://torp.no/)
 * 1,5 hour by train or bus to the Oslo city center
+* 
+**Transportation from the airport**
 
-### Train
-It is also possible to arrive in Oslo by train. The [main central train station in Oslo (Oslo S)](https://www.banenor.no/en/traffic-and-travel/railway-stations/-o-/oslo-central/) is located downtown within walking distance to venue and hotels.  
-
-### Transportation from the airport
-
-Oslo Airport has very good public transport connections to and from the airport. You can choose between train (Airport Express Train or Regional trains) or various bus options. 
+Gardermoen Airport has very good public transport connections to and from the airport. You can choose between train (Airport Express Train or Regional trains) or various bus options. 
 * **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
 * **Regional train, VY:** [http://www.vy.no/](http://www.vy.no/) (approx every 30 min, 134 kr = 12,4 euro)
  
 The airport trains stop at the main Oslo Central Station, and at the secondary train station Nationaltheatret (National Theatre), which is very close to the University of Oslo campus City Centre.
- 
+
 You can also take a taxi from the airport. It takes about 40 minutes to drive from the airport to Oslo Central Station. More information available at [https://www.avinor.no/en/airport/oslo/info/Taxi/](https://www.avinor.no/en/airport/oslo/info/Taxi/).
+
+
+### Train
+It is also possible to arrive in Oslo by train. The [main central train station in Oslo (Oslo S)](https://www.banenor.no/en/traffic-and-travel/railway-stations/-o-/oslo-central/) is located downtown within walking distance to venue and hotels.  
 
 ---
 
@@ -65,7 +66,7 @@ All public transport in Oslo and the surrounding boroughs are included in one ti
 
 * [Travel planner](https://ruter.no/en)
 * [Information about tickets](https://ruter.no/en/about-our-tickets)
-* [https://www.visitoslo.com/en/product/?tlp=2984543](https://www.visitoslo.com/en/product/?tlp=2984543)
+* [More information on Oslo's public transportation system](https://www.visitoslo.com/en/product/?tlp=2984543)
 
 ---
 
@@ -82,9 +83,32 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 | ![Clarion Hotel The Hub](https://images.ctfassets.net/nwbqij9m1jag/4aOnEWQZEwkQxG7vdmjlvf/b941789540d7e1f8198f6021af0cd6b1/Clarion_Hotel_The_Hub_-_Lobby_-_Reception_area_16_9?fm=webp&q=80&w=400) | [**Clarion Hotel The Hub**](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/)<br>810 rooms, [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9) |
 | ![Clarion Collection Hotel Folketeateret](https://images.ctfassets.net/nwbqij9m1jag/13J0gUqd4Ex2WEyV0QGeu6/b24a00686a0439f75411531cef40ac35/Clarion_Collection_Hotel_Folketeateret_-__16_9?fm=webp&q=80&w=400) | [**Clarion Collection Hotel Folketeateret**](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/)<br>160 rooms, [350 m to Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9) |
 
+**Other hotels in Oslo**
+[https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
+
 ---
 
 ## Venues
+
+### GBIF committee meetings - 28 September 2026
+
+The GBIF committee meetings on 28 September will take place at the University of Oslo Natural History Museum at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
+
+### Icebreaker - 28 September 2026
+
+The Icebreaker will take place at [Klimahuset (Climate House)](https://www.nhm.uio.no/english/climate-house/index.html) at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
+
+### GBIF Governing Board meeting - 29 September-1 October 2026
+
+The venue for the Governing Board meeting has not yet been confirmed but it will be in the centre of Oslo. 
+
+### Hosted dinner - 30 September 2026
+
+The venue for the Hosted dinner has not yet been confirmed. 
+
+### Science Symposium - 2 October 2026
+
+The Science Symposium will take place at the [University of Oslo Aula](https://www.visitoslo.com/en/product/?tlp=2987093&name=Universitetets-aula) in the [Domus Accademia](https://www.uio.no/om/finn-fram/omrader/sentrum/se02/), Auditorium 4. 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <iframe width="100%" height="420" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&amp;config=uio&amp;campusid=801&amp;zlevel=1&amp;center=10.736589,59.916022&amp;zoom=15.4&amp;utm_medium=iframe" style="border:1px solid #ddd; max-width: 800px; border-radius: 8px;" allow="geolocation" title="Map by MazeMap"></iframe>
