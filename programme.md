@@ -89,6 +89,11 @@ Venue: TBC
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
+**Executive Committee meeting**  
+Time: 17:00-18:30   
+Venue: TBC  
+
+*The meeting is open to members of the GBIF Executive Committee*
 
 ### Friday, 2 October 2026
 
