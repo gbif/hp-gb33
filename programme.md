@@ -28,33 +28,35 @@ Below is a list of all the events associated with GB32.
 
 Please read the information carefully before registering.
 
+### Monday, 28 September 2026
+
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)   
+Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Executive Committee meeting**  
 Time: 13:30-17:00   
-Venue: [University of Oslo Natural History Museum, campus Tøyen](https://www.nhm.uio.no/english/)  
+Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**  
-Time: TBC
-Venue: [Climate House, campus Tøyen](https://www.nhm.uio.no/english/climate-house/)
+Time: 18:00-21:00
+Venue: [Klimahuset (Climate House)](https://www.nhm.uio.no/english/climate-house/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)  
 
 *The Icebreaker is open to Governing Board delegates, GBIF committee members and invited observers*
 
@@ -99,7 +101,7 @@ Venue: TBC
 
 **Science Symposium**  
 Time: 09:00-17:00     
-Venue: University of Oslo Aula      
+Venue: [University of Oslo Aula](https://www.visitoslo.com/en/product/?tlp=2987093&name=Universitetets-aula)      
 
 *The Science Symposium is open to Governing Board delgates, GBIF committee members and other invited participants*  
 
