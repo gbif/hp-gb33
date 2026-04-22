@@ -17,7 +17,7 @@ The deadline for applying for partial financial suppport is **5 June 2026**.
 The GBIF Secretariat will inform applicants about the outcome of their application shortly after the deadline.  
 
 ## Who can apply?
-Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants from countries with per capita GDP below USD 13,500 which are in good standing in regards to their GBIF financial contributions.  
+Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants from countries with per capita GDP below USD 13,500 which are in good standing in regards to their GBIF financial contributions at the time of application.  
 
 These countries will be countries whose per capita GDP was less than 13,500 according to the 2020 Word Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2023-2027). See list [here](/assets/documents/GB33_VP_low_GDP.pdf).  
 
