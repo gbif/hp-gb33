@@ -80,7 +80,7 @@ We have made a block reservation for three hotels. The block reservation code is
 | ![Clarion Hotel The Hub](https://images.ctfassets.net/nwbqij9m1jag/4aOnEWQZEwkQxG7vdmjlvf/b941789540d7e1f8198f6021af0cd6b1/Clarion_Hotel_The_Hub_-_Lobby_-_Reception_area_16_9?fm=webp&q=80&w=400) | [**Clarion Hotel The Hub**](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/)<br>810 rooms, [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9) |
 | ![Clarion Collection Hotel Folketeateret](https://images.ctfassets.net/nwbqij9m1jag/13J0gUqd4Ex2WEyV0QGeu6/b24a00686a0439f75411531cef40ac35/Clarion_Collection_Hotel_Folketeateret_-__16_9?fm=webp&q=80&w=400) | [**Clarion Collection Hotel Folketeateret**](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/)<br>160 rooms, [350 m to Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9) |
 
-**Other hotels in Oslo**
+**Other hotels in Oslo:**
 You can find a list of other hotels in Oslo[here](https://www.visitoslo.com/en/accommodation/hotel/)
 
 ---
