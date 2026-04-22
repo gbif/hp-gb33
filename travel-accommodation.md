@@ -14,11 +14,6 @@ Meeting attendees are responsible for arranging their own travel and to ensure t
 
 [Check if you need a visa to visit Norway](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/?). If you need a visa, follow the instructions under "Attend a cultural event or visit an organisation” and email [gb33@gbif.org](mailto:gb33@gbif.org) for an [invitation letter](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679).
 
-**Norwegian Directorate of Immigration (UDI) information pages**
-* [https://www.udi.no/en/want-to-apply/visit-and-holiday/](https://www.udi.no/en/want-to-apply/visit-and-holiday/)
-* [https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/](https://www.udi.no/en/want-to-apply/visit-and-holiday/visitors-visa-to-norway/)
-* [https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679](https://www.udi.no/en/word-definitions/invitation-for-a-visitors-visa-/#link-10679)
-
 **Norwegian Ministry of Foreign Affairs (Norwegian Embassies by country)**
 * [https://www.norway.no/](https://www.norway.no/)
 
@@ -26,7 +21,7 @@ Meeting attendees are responsible for arranging their own travel and to ensure t
 
 ## Insurance
 
-Meeting attendees are advised to ensure appropriate comprehensive health and travel insurance for travel to Colombia.
+Meeting attendees are advised to ensure appropriate comprehensive health and travel insurance for travel to Norway.
 
 ---
 
@@ -45,7 +40,7 @@ Another option is **Charter airport (Torp, Sandefjord)** [https://torp.no/](http
 * 
 **Transportation from the airport**
 
-Gardermoen Airport has very good public transport connections to and from the airport. You can choose between train (Airport Express Train or Regional trains) or various bus options. 
+Gardermoen Airport has very good public transport connections to and from the airport. You can choose between [train (Airport Express Train or Regional trains) or various bus options](https://www.avinor.no/en/airport/oslo/info/public-transportation/). 
 * **Airport express train:** [https://flytoget.no/](https://flytoget.no/) (every 10 min, 268 kr = 25 euro)
 * **Regional train, VY:** [http://www.vy.no/](http://www.vy.no/) (approx every 30 min, 134 kr = 12,4 euro)
  
@@ -72,7 +67,9 @@ All public transport in Oslo and the surrounding boroughs are included in one ti
 
 ## Hotels
 
-GB33 attendees are asked to organize their own accommodation. We have made a block reservation for three hotels. The block reservation code is “TDWG 2026” (20% discount).
+GB33 attendees are asked to organize their own accommodation.  
+
+We have made a block reservation for three hotels. The block reservation code is “TDWG 2026” (20% discount).  
 
 **Block booking reservation link** (valid to 2026-08-01):
 [https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
@@ -84,7 +81,7 @@ GB33 attendees are asked to organize their own accommodation. We have made a blo
 | ![Clarion Collection Hotel Folketeateret](https://images.ctfassets.net/nwbqij9m1jag/13J0gUqd4Ex2WEyV0QGeu6/b24a00686a0439f75411531cef40ac35/Clarion_Collection_Hotel_Folketeateret_-__16_9?fm=webp&q=80&w=400) | [**Clarion Collection Hotel Folketeateret**](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/)<br>160 rooms, [350 m to Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9) |
 
 **Other hotels in Oslo**
-[https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
+You can find a list of other hotels in Oslo[here](https://www.visitoslo.com/en/accommodation/hotel/)
 
 ---
 
