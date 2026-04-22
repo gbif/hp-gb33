@@ -32,7 +32,7 @@ Please note that funding will as a rule not be provided in advance of the meetin
 
 Please read the conditions section in the application form carefully. Non-compliance may result in loss of future travel reimbursement.  
 
-The accommodation subsidy will be 100 Euro per night CHECK WITH JOE. GBIF will cover arrival the night before the start of the Governing Board meeting start and departure the day after the end of the meeting. The subsidy will be reimbursed after the meeting.   
+The accommodation subsidy will be 120 Euro per night for a maximum of four nights. GBIF will cover arrival the night before the start of the Governing Board meeting start and departure the day after the end of the meeting. The subsidy will be reimbursed after the meeting.   
 
 If selected for funding, the GBIF Secretariat will send you the reimbursement form for the air ticket costs (if not already covered directly by GBIF) and the accommodation subsidy. The reimbursement form must be submitted together with proof of costs by no later than two months after the meeting.  
 
