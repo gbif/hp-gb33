@@ -91,6 +91,12 @@ You can find a list of other hotels in Oslo[here](https://www.visitoslo.com/en/a
 
 The GBIF committee meetings on 28 September will take place at the University of Oslo Natural History Museum at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
 
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <iframe width="100%" height="420" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&amp;config=uio&amp;campusid=802&amp;zlevel=1&amp;center=10.771422,59.919146&amp;zoom=16&amp;utm_medium=iframe" style="border:1px solid #ddd; max-width: 800px; border-radius: 8px;" allow="geolocation" title="Map by MazeMap"></iframe>
+  <small style="margin-top: 8px;"><a href="https://www.mazemap.com/" target="_blank">View larger map on MazeMap</a></small>
+</div>
+
+
 ### Icebreaker - 28 September 2026
 
 The Icebreaker will take place at [Klimahuset (Climate House)](https://www.nhm.uio.no/english/climate-house/index.html) at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
