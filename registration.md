@@ -14,9 +14,9 @@ If you have the appropriate roles, you can here register for:
 - Science Symposium
 - Social events
 
-Please note that for the Governing Board meeting, only Heads of Delegation, committee members and invited observers can directly register. Additional delegates will have to be appointed by the Head of Delegation before they can register. 
+Please note that for the Governing Board meeting, only Heads of Delegation, committee members and invited observers can directly register. Additional delegates will have to be appointed by the Head of Delegation before they can register. See more information in the ['General Terms and Conditions for the GB33 meeting and associated events'](/assets/documents/GB33_terms.pdf).
 
-Click here ADD LINK to register.
+Click [here](https://www.eventleaf.com/e/gb33) to register.
 
 The registration closes on **11 September 2026**.
 
