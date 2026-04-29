@@ -14,6 +14,8 @@ If you have the appropriate roles, you can here register for:
 - Science Symposium
 - Social events
 
+Please note that for the Governing Board meeting, only Heads of Delegation, committee members and invited observers can directly register. Additional delegates will have to be appointed by the Head of Delegation before they can register. 
+
 Click here ADD LINK to register.
 
 The registration closes on **11 September 2026**.
