@@ -20,4 +20,4 @@ Click [here](https://www.eventleaf.com/e/gb33) to register.
 
 The registration closes on **11 September 2026**.
 
-If you have any questions regarding registration, please contact the GBIF Secretariat at [GB33@gbif.org](mailto:GB33@gbif.org).
+If you have any questions regarding registration, or if you are in doubt about which email address to use when registering, please contact the GBIF Secretariat at [GB33@gbif.org](mailto:GB33@gbif.org).
