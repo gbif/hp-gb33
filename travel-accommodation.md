@@ -71,8 +71,7 @@ GB33 attendees are asked to organize their own accommodation.
 
 We have made a block reservation for three hotels. The block reservation code is “TDWG 2026” (20% discount).  
 
-**Block booking reservation link** (valid to 2026-08-01):
-[https://www.visitoslo.com/en/accommodation/hotel/](https://www.visitoslo.com/en/accommodation/hotel/)
+**Block booking reservation link** (valid to 2026-08-01): [https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026)
 
 | Hotel | Details |
 | :--- | :--- |
