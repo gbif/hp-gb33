@@ -79,7 +79,7 @@ The local organizers have made block bookings for the below hotels. The link wit
 | ![Comfort Hotel Børsparken](https://images.ctfassets.net/nwbqij9m1jag/25AjzFH6hE6qxRXJE0BMZA/f8de4b9bf64687e09e51a169b9660775/Comfort_Hotel_B_rsparken___Facade_-_Entrance_door_original?fm=webp&q=80&w=400) | [**Comfort Hotel Børsparken**](https://www.strawberry.no/hotell/norge/oslo/comfort-hotel-borsparken/?checkin=20260617&checkout=20260618&adults=2&rooms=1&utm_source=googlehpa&utm_medium=cpc&utm_content=NO020_mapresults_NO_1_desktop_2026-06-17_default_12374074680__paid&gad_source=6&epslanguage=no)<br>248 rooms, [400 m from Central Station](https://maps.app.goo.gl/L5brhv3TePjfMget6) <br><br>Discount booking link: [https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25)|
 
 **Other hotels in Oslo:**
-You can find a list of other hotels in Oslo[here](https://www.visitoslo.com/en/accommodation/hotel/)
+You can find a list of other hotels in Oslo [here](https://www.visitoslo.com/en/accommodation/hotel/)
 
 ---
 
