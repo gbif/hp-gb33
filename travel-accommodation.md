@@ -101,7 +101,7 @@ The Icebreaker will take place at [Klimahuset (Climate House)](https://www.nhm.u
 
 ### GBIF Governing Board meeting - 29 September-1 October 2026
 
-The venue for the Governing Board meeting has not yet been confirmed but it will be in the centre of Oslo. 
+The Governing Board meeting will take place in [Auditorium 1](https://link.mazemap.com/J8uVICzK) at the [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/) at [Campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/).  
 
 ### Hosted dinner - 30 September 2026
 
