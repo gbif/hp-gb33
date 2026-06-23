@@ -64,7 +64,7 @@ Venue: [Klimahuset (Climate House)](https://www.nhm.uio.no/english/climate-house
 
 **Governing Board meeting Day 1**  
 Time: 09:00-17:00   
-Venue: TBC      
+Venue: [Auditorium 1)](https://link.mazemap.com/J8uVICzK), [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/), [university campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/)   
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
@@ -73,7 +73,7 @@ Venue: TBC
 
 **Governing Board meeting Day 2**  
 Time: 09:00-17:00   
-Venue: TBC      
+Venue: [Auditorium 1)](https://link.mazemap.com/J8uVICzK), [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/), [university campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/)    
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
@@ -87,7 +87,7 @@ Venue: TBC
 
 **Governing Board meeting Day 3**  
 Time: 09:00-17:00   
-Venue: TBC      
+Venue: [Auditorium 1)](https://link.mazemap.com/J8uVICzK), [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/), [university campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/)    
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
