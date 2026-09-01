@@ -10,4 +10,6 @@ imageLicense: |
 The documents for the GBIF committee meetings on 28 September 2026 will be made available to the committee members closer to the meeting date.
 
 **Governing Board meeting (29 September - 1 October 2026)**  
-The key meeting documents and background documents for the Governing Board meeting on 29 September - 1 October 2026 will be made available one month before the start of the meeting.
+The official Governing Board meeting document can be found [here](https://gbif.box.com/s/9apweodln7xvvwldez4zr44yvdftmkqh).  
+
+Please note that the document folder is password protected. An email with the link and password went out to all GBIF delegates on 28 September. If you have not received the email, please contact the GBIF Secretariat at [GB33@gbif.org](mailto:GB33@gbif.org]. 
