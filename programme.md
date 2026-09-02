@@ -77,11 +77,11 @@ Venue: [Auditorium 1)](https://link.mazemap.com/J8uVICzK), [Domus Juridica](http
 
 *The meeting is open to Governing Board delegates, GBIF committee members and invited observers*
 
-**Hosted dinner**  
-Time: 19:00-22:00   
-Venue: TBC      
+**Oslo fjord tour (boat trip)**  
+Time: 19:00-21:00   
+Meeting point: 18:30 at Langkaia (Next to the Opera House)      
 
-*The Hosted dinner is to Governing Board delegates, GBIF committee members and invited observers*
+*A boat trip of the Oslo fjord is offered to Governing Board delegates, GBIF committee members and invited observers (pre-registration required). Please note that the boat leaves at 19:00 so you have to be at the Lankaia by 18:30 to be ready for boarding at 18:40.*
 
 ### Thursday, 1 October 2026
 
