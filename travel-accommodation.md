@@ -103,9 +103,21 @@ The Icebreaker will take place at [Klimahuset (Climate House)](https://www.nhm.u
 
 The Governing Board meeting will take place in [Auditorium 1](https://link.mazemap.com/J8uVICzK) at the [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/) at [Campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/).  
 
-### Hosted dinner - 30 September 2026
+### Oslo fjord tour (boat trip) - 30 September 2026
 
-The venue for the Hosted dinner has not yet been confirmed. 
+The hosted dinner has been converted into a boat trip of the Oslo fjord. The meeting point is Langkaia (opposite the Opera House).   
+
+As the boat leaves at 19:00, it is important to be at the meeting point at 18:30 to be ready for boarding at 18:40.  
+
+Dinner and 1 glass of wine will be served during the trip. 
+
+The tour offers a view from historic Shipyards to modern lifestyle.   
+The adventure first leads to Pipervika. Today, life pulses here between the City Hall, Akershus Fortress, and the Aker Brygge promenade.  
+The journey continues past:  
+•	Tjuvholmen: Oslo’s trendiest district with stylish galleries and restaurants right on the water.  
+•	Frognerkilen: A huge marina in summer with views of the magnificent Oscarshall summer palace, belonging to the Norwegian Royal Family.  
+•	Bygdøy & Dyna Fyr: We pass the museum peninsula and the striking little Dyna Fyr lighthouse.  
+
 
 ### Science Symposium - 2 October 2026
 
