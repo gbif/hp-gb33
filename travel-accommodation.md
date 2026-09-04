@@ -85,9 +85,24 @@ You can find a list of other hotels in Oslo [here](https://www.visitoslo.com/en/
 
 ## Venues
 
+Please see the [map](/travel-accommodation#map) for exact locations of venues.   
+
+
 ### GBIF committee meetings - 28 September 2026
 
-The GBIF committee meetings on 28 September will take place at the University of Oslo Natural History Museum at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
+The GBIF committee meetings on 28 September will take place at the University of Oslo Natural History Museum at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/).  
+
+Tøyen Hovedgård  
+Trondheimsveien 23B  
+0562 Oslo, Norway  
+
+09:00-12:30:
+- Budget Committee meeting: Meeting room 2   
+- Science Committee meeting: Meeting room 1 - 104  
+- Nodes Steering Group meeting: Meeting room 110
+
+13:30-17:00:
+- Executive Committee meeting: Meeting room 110  
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <iframe width="100%" height="420" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&amp;config=uio&amp;campusid=802&amp;zlevel=1&amp;center=10.771422,59.919146&amp;zoom=16&amp;utm_medium=iframe" style="border:1px solid #ddd; max-width: 800px; border-radius: 8px;" allow="geolocation" title="Map by MazeMap"></iframe>
@@ -95,19 +110,35 @@ The GBIF committee meetings on 28 September will take place at the University of
 </div>
 
 
-### Icebreaker - 28 September 2026
+### Icebreaker - 28 September 2026, 18:00-21:00
 
 The Icebreaker will take place at [Klimahuset (Climate House)](https://www.nhm.uio.no/english/climate-house/index.html) at [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/). 
 
-### GBIF Governing Board meeting - 29 September-1 October 2026
+Klimahuset  
+Sars' gate 1  
+0562 Oslo, Norway  
+
+
+### GBIF Governing Board meeting - 29 September-1 October 2026, 09:00-17:00
 
 The Governing Board meeting will take place in [Auditorium 1](https://link.mazemap.com/J8uVICzK) at the [Domus Juridica](https://www.uio.no/english/about/getting-around/areas/city-centre/se27/) at [Campus Centrum](https://www.uio.no/english/about/getting-around/areas/city-centre/).  
 
+Domus Juridica  
+Kristian Augusts gate 17  
+0164 Oslo, Norway  
+
+Please note that the lunch break will take place in a different building just across the road, so we advise delegates to bring a coat and/or umbrella to be prepared for bad weather.  
+
+
 ### Oslo fjord tour (boat trip) - 30 September 2026
 
-The hosted dinner has been converted into a boat trip of the Oslo fjord. The meeting point is Langkaia (opposite the Opera House).   
+The hosted dinner has been converted into a boat trip of the Oslo fjord. The meeting point is Langkaia (opposite the Opera House). 
 
-As the boat leaves at 19:00, it is important to be at the meeting point at 18:30 to be ready for boarding at 18:40.  
+Havnelageret  
+Langkaia 1  
+0150 Oslo, Norway  
+
+**As the boat leaves at 19:00, it is important to be at the meeting point at 18:30 to be ready for boarding at 18:40.**  
 
 Dinner and 1 glass of wine will be served during the trip. 
 
@@ -119,9 +150,13 @@ The journey continues past:
 •	Bygdøy & Dyna Fyr: We pass the museum peninsula and the striking little Dyna Fyr lighthouse.  
 
 
-### Science Symposium - 2 October 2026
+### Science Symposium - 2 October 2026, 09:00-16:15
 
 The Science Symposium will take place at the [University of Oslo Aula](https://www.visitoslo.com/en/product/?tlp=2987093&name=Universitetets-aula) in the [Domus Accademia](https://www.uio.no/om/finn-fram/omrader/sentrum/se02/), Auditorium 4. 
+
+Domus Juridica  
+Karl Johans gt. 47  
+0162 Oslo, Norway  
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <iframe width="100%" height="420" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&amp;config=uio&amp;campusid=801&amp;zlevel=1&amp;center=10.736589,59.916022&amp;zoom=15.4&amp;utm_medium=iframe" style="border:1px solid #ddd; max-width: 800px; border-radius: 8px;" allow="geolocation" title="Map by MazeMap"></iframe>
