@@ -24,7 +24,7 @@ Download a printable one-page overview of the GB32 meeting and associated events
 
 
 ## List of events
-Below is a list of all the events associated with GB32.
+Below is a list of all the events associated with GB33. More information about the venues can be found [here](https://gb33.gbif-staging.org/travel-accommodation#venues). A map with the key locations can be found [here](https://gb33.gbif-staging.org/travel-accommodation#map).
 
 Please read the information carefully before registering.
 
