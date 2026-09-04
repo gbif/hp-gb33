@@ -100,9 +100,9 @@ Venue: TBC
 
 ### Friday, 2 October 2026
 
-**Science Symposium**  
-Time: 09:00-17:00     
+**Science Symposium: From Open Data to Living Knowledge**  
+Time: 09:00-16:15     
 Venue: [University of Oslo Aula](https://www.visitoslo.com/en/product/?tlp=2987093&name=Universitetets-aula)      
 
-*The Science Symposium is open to Governing Board delgates, GBIF committee members and other invited participants*  
+*The Science Symposium is open to Governing Board delgates, GBIF committee members and other invited participants. More information, including draft programme can be found [here](https://www.gbif.no/events/2026/2026-10-gbif-science-symposium.html)*  
 
