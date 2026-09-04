@@ -171,7 +171,7 @@ Karl Johans gt. 47
 
 ## Map
 
-* **Google Map (GB33 venues):** [https://maps.app.goo.gl/ciRZsPxonxAKkkxd7](https://maps.app.goo.gl/ciRZsPxonxAKkkxd7) (link to view)
+* **Google Map (GB33 venues):** [https://maps.app.goo.gl/ciRZsPxonxAKkkxd7](https://maps.app.goo.gl/ciRZsPxonxAKkkxd7) 
 
 ---
 
