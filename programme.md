@@ -32,25 +32,25 @@ Please read the information carefully before registering.
 
 **Budget Committee meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
+Venue: Tøyen Hovedgård, meeting room 2 (106), [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
+Venue: Tøyen Hovedgård, meeting room 1 (104), [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Nodes Steering Group meeting**  
 Time: 09:00-12:30   
-Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
+Venue: Tøyen Hovedgård, meeting room 110, [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Executive Committee meeting**  
 Time: 13:30-17:00   
-Venue: [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
+Venue: Tøyen Hovedgård, meeting room 110, [University of Oslo Natural History Museum](https://www.nhm.uio.no/english/), [university campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)   
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -79,9 +79,9 @@ Venue: [Auditorium 1)](https://link.mazemap.com/J8uVICzK), [Domus Juridica](http
 
 **Oslo fjord tour (boat trip)**  
 Time: 19:00-21:00   
-Meeting point: 18:30 at Langkaia (Next to the Opera House)      
+Meeting point: 18:30 at Langkaia (Opposite the Opera House)      
 
-*The Hosted dinner has been converted into a boat trip of the Oslo fjord. The trip is offered to Governing Board delegates, GBIF committee members and invited observers (pre-registration required). 
+*The Hosted dinner has been converted into a boat trip of the Oslo fjord. The trip is open to Governing Board delegates, GBIF committee members and invited observers. 
 Please note that the boat leaves at 19:00 so you have to be at the meeting point by 18:30. More information available [here](/travel-accommodation#oslo-fjord-tour-boat-trip---30-september-2026)*
 
 ### Thursday, 1 October 2026
